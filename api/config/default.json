@@ -1,0 +1,5 @@
+{
+  "dbURI":"mongodb+srv://eclarkhalid:machipo12@cluster0.n1mzwqg.mongodb.net/?retryWrites=true&w=majority",
+  "jwtsecret": "ghlsjdfakslklLSJDJHGDHSYuhghjkjljdhshdd",
+    "StripeAPIKey":"sk_test_51NzjS3ADxjAlTAA0i19jkUD1TdrPzeU05SX7bSHNL0opsD4oRGAXtTTAUo4LXwuP59SxCMp24s1tCwgkwL0xOkE100Px8Mk5iV"
+}
